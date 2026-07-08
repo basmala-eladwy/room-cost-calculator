@@ -15,7 +15,6 @@ A simple Python project that calculates:
 - Arithmetic Operators
 - print()
 
-## Example
 
 ## Example
 
